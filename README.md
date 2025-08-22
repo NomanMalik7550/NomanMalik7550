@@ -4,7 +4,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-![Muhammad-Noman](https://cardivo.vercel.app/api?name=Muhammad%20Noman&description=Hi,%20Welcome%20To%20My%20Profile!&image=https://github.com/NomanMalik7550.png&backgroundColor=green&github=NomanMalik7550&linkedin=Muhammad Noman&instagram=Nomi_Malik755)
+![Muhammad-Noman](https://cardivo.vercel.app/api?name=Muhammad%20Noman&description=Hi,%20Welcome%20To%20My%20Profile!&image=https://github.com/NomanMalik7550.png&backgroundColor=green&github=NomanMalik7550&linkedin=MuhammadNoman&instagram=Nomi_Malik755)
 
 ---
 
